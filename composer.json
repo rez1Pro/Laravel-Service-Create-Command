@@ -1,0 +1,19 @@
+{
+    "name": "rez1pro/service-pattern",
+    "description": "Laravel Service Create Command",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rez1pro\\ServicePattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rez1pro",
+            "email": "programmerrezwan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

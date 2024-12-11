@@ -1,5 +1,5 @@
 {
-    "name": "rez1pro/service-pattern",
+    "name": "rez1pro/service-create-command",
     "description": "Laravel Service Create Command",
     "type": "library",
     "license": "MIT",

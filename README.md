@@ -34,5 +34,3 @@ Rez1pro\ServicePattern\ServicePatternServiceProvider::class,
 
 ## Example
 - Run `php artisan make:service SendMessageService` to create a new service class.
-- Run `php artisan make:service SendMessageService` to create a new service class.
-

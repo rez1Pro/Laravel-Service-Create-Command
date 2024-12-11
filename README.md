@@ -22,7 +22,7 @@ The Service Pattern is a design pattern that encapsulates business logic into de
 - Use the service class in controllers or other components that need to perform specific operations.
 
 ## Installation
-- Run `composer require rez1pro/service-pattern`
+- Run `composer require rez1pro/service-create-command`
 - Run `php artisan make:service <service-name>` to create a new service class.
 
 ## Register Service Provider
